@@ -19,4 +19,4 @@
     "autoload": {
         "psr-0": { "Composer": "src/" }
     }
-}
+} 
