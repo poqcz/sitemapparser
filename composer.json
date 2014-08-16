@@ -1,0 +1,22 @@
+{
+    "name": "poqcz/sitemapparser",
+    "keywords": ["sitemap", "parser"],
+    "version": "1.0.0",
+    "type": "library",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Pavel Mátl",
+            "email": "pavel.matl@poq.cz",
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/PavelMatl/SitemapParser/issues"
+    },
+    "require": {
+        "php": ">=5.3.2"
+    },
+    "autoload": {
+        "psr-0": { "Composer": "src/" }
+    }
+}
