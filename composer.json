@@ -13,12 +13,6 @@
     "support": {
         "issues": "https://github.com/PavelMatl/SitemapParser/issues"
     },
-    "repositories": [
-        {
-            "type": "git",
-            "url": "https://github.com/poqcz/sitemapparser"
-        }
-    ],
     "require": {
         "php": ">=5.3.2"
     },
